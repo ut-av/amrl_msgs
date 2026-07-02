@@ -5,3 +5,8 @@ lib
 msg_gen
 src/amrl_msgs
 srv_gen
+.air
+.airfield/
+build/
+log/
+install/

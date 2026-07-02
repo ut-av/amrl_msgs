@@ -1,0 +1,12 @@
+kind: package
+name: amrl_msgs
+dependencies:
+- geometry_msgs
+- std_msgs
+- nav_msgs
+- sensor_msgs
+- rosidl_default_runtime
+- ament_cmake
+- rosidl_default_generators
+source_path: .
+ros_distro: jazzy
